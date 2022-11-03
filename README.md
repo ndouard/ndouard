@@ -8,4 +8,4 @@ Some of the things I have been working on:
 - 🌱 I’m currently learning R
 - 📫 How to reach me: ndouard01@manhattan.edu
 
-⚡ Fun fact: I once made it to the regional finals in mini-sumo! 
+⚡ Fun fact: I once made it to the regional finals in micro-sumo! 
