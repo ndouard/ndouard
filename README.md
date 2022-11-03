@@ -8,4 +8,4 @@ Some of the things I have been working on:
 - 🌱 I’m currently learning R and quantum gates
 - 📫 How to reach me: ndouard01@manhattan.edu
 
-⚡ Fun fact: I founded my engineering school's annual micro-sumo tournament! 
+⚡ Fun fact: I co-founded my engineering school's annual micro-sumo tournament! 
