@@ -5,7 +5,7 @@ Some of the things I have been working on:
 - 🔭 Currently working on some interesting text mining stuff for an upcoming presentation
 - 👀 I’m interested in quantum computing, NLP, and bioinspired vision sensors
 - 💬 Ask me about dynamic vision sensors!
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and quantum gates
 - 📫 How to reach me: ndouard01@manhattan.edu
 
 ⚡ Fun fact: I founded my engineering school's annual micro-sumo tournament! 
