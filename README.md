@@ -1,4 +1,4 @@
-Hi, my name is Nico! I'm a data scientist and PhD candidate at INSA, University of Strasbourg ([ICube](https://icube.unistra.fr/en/))
+Hi, my name is Nico! I'm a data scientist and PhD candidate at University of Strasbourg, National Institute of Applied Sciences ([ICube](https://icube.unistra.fr/en/))
 
 Some of the things I have been working on:
 
